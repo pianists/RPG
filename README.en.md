@@ -13,7 +13,7 @@ This is not completed project.
 This is not source code,it's binary code.
 I've not publish the source code yet.
 You can play it at this link ↓  
-https://pianists.github.io/UnityRpgGame/rpgAlphaVerion0_0_1/
+https://pianists.github.io/RPG/rpgAlphaVerion0_0_2/
 
 ## Version History
 | version | description |
