@@ -9,7 +9,7 @@ English version is [here](/README.en.md).
 C#のソースコードは公開していないので、
 WebGLのコードになります。
 ここから遊べます ↓  
-https://pianists.github.io/RPG/rpgAlphaVerion0_0_2/
+https://pianists.github.io/RPG/rpgAlphaVerion0_0_2/  
 ※一部端末でロードできないことがあるようです。
 詳しいことは調査中です。
 
