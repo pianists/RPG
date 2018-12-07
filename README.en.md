@@ -15,6 +15,10 @@ I've not publish the source code yet.
 You can play it at this link ↓  
 https://pianists.github.io/RPG/rpgAlphaVerion0_0_2/
 
+## Bugs that I already know
+- Can't play on some terminals.(They are some android tablets.)
+- Sometimes, can't collect monsters(like slimes)' debris.(I think it's caused by hitboxes.)
+
 ## Version History
 | version | description |
 ----|---- 
