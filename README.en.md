@@ -24,3 +24,7 @@ https://pianists.github.io/RPG/rpgAlphaVerion0_0_2/
 ----|---- 
 | [alpha 0.0.1](https://pianists.github.io/RPG/rpgAlphaVerion0_0_1/) | The word and picture is cut off in the middle. |
 | [alpha 0.0.2](https://pianists.github.io/RPG/rpgAlphaVerion0_0_2/) | Fixed 0.0.1's bug.Made it possible to collect monsters' debris. |
+
+## People who cooperated
+### Illustrators
+- [天使たゃん(tenshi tyan)](https://twitter.com/te_yuu_s)(main charactor's illust)
